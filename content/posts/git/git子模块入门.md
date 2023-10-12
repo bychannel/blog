@@ -3,7 +3,7 @@ title: "【转载】git子模块入门"
 date: 2021-11-15T16:26:57+08:00
 draft: false
 tags: ["git"]
-categories: ["Git", "笔记"]
+categories: ["Git"]
 ---
 
 > 注：本文转载自 [Git: submodule 子模块简明教程 | A Quest After Perspectives](https://iphysresearch.github.io/blog/post/programing/git/git_submodule/)
