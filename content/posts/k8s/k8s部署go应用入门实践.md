@@ -1,6 +1,6 @@
 ---
 title: "k8s部署go应用入门实践"
-date: 2022-02-12T19:31:57+08:00
+date: 2023-02-12T19:31:57+08:00
 draft: false
 tags: ["k8s","集群部署"]
 categories: ["kubernetes"]

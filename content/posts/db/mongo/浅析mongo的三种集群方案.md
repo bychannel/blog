@@ -1,6 +1,6 @@
 ---
 title: "浅析mongo的三种集群方案"
-date: 2022-01-09T20:15:57+08:00
+date: 2023-05-09T20:15:57+08:00
 draft: false
 tags: ["mongo","集群"]
 categories: ["编程"]

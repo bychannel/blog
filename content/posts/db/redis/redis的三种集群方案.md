@@ -1,6 +1,6 @@
 ---
 title: "redis的三种集群方案"
-date: 2022-05-03T17:10:57+08:00
+date: 2023-04-03T17:10:57+08:00
 draft: false
 tags: ["redis","集群"]
 categories: ["编程"]
